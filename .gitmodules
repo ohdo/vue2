@@ -1,0 +1,9 @@
+[submodule "vue"]
+	path = vue
+	url = https://hub.fastgit.org/vuejs/vue.git
+[submodule "vuex"]
+	path = vuex
+	url = https://hub.fastgit.org/vuejs/vuex.git
+[submodule "vue-router"]
+	path = vue-router
+	url = https://hub.fastgit.org/vuejs/vue-router.git
